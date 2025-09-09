@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Tinashezw
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me katunatinashe498@gmail.com
+Hello I'm a computer network analyst 
+and can help in cyber security. 📫 You can reach me here katunatinashe498@gmail.com
 
 <!---
 Tinashezw/Tinashezw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
